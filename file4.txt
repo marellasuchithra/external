@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am in repo
+=======
+i am in local
+>>>>>>> a991f76 (file4 is commited)
